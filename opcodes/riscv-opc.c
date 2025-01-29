@@ -23,7 +23,7 @@
 #include "sysdep.h"
 #include "opcode/riscv.h"
 #include <stdio.h>
-/*hello world TODO REMOVsjsjsjsE*/
+/*hello world TODO REMOVe*/
 /* Register names used by gas and objdump.  */
 
 const char riscv_gpr_names_numeric[NGPR][NRC] =
